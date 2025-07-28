@@ -1,0 +1,10 @@
+To Run from Terminal
+Save each code into .py files like: nano voice_assistant.py
+
+
+
+Run each script with:
+python3 voice_assistant.py
+python3 sentiment_webapp.py
+python3 gemini_chat.py
+python3 speech_to_image.py
